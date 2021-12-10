@@ -12,7 +12,7 @@
     "@docusaurus/core": "^2.0.0-alpha.55",
     "@docusaurus/preset-classic": "^2.0.0-alpha.55",
     "classnames": "^2.2.6",
-    "mermaid": "^8.4.6",
+    "mermaid": "^8.11.0",
     "mermaid.cli": "^0.5.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
